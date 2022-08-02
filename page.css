@@ -1,0 +1,23 @@
+
+body{
+           background-image:url("https://www.worldbook.com/images/WBBlog_KidsCoding.jpg");
+           margin:0;
+}
+h1{
+      margin:0px;
+      background-color:#1F4690;
+     text-align:center;
+      color:white;
+      padding:25px;
+}
+p{
+   margin-left:16px;
+   color:white;
+}
+h2{
+      font-size:25px;
+       font-weight:bold;
+     border:1px solid #FFA500;
+     width:100px;
+     padding:10px 60px;
+}
